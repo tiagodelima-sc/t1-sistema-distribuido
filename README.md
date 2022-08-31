@@ -8,5 +8,5 @@ Conta com a colaboração dos seguintes alunos:
 - Tiago de Lima
 
 ## Lista de Projetos
-- [Servidor HTTP – Modelo Cliente/Servidor](#)
-- [Gossip Protocol](#)
+- [Servidor HTTP – Modelo Cliente/Servidor](https://github.com/tiagodelima-sc/t1-sistema-distribuido/tree/main/modelo_centralizado)
+- [Gossip Protocol](https://github.com/tiagodelima-sc/t1-sistema-distribuido/tree/main/modelo_distribuido)
